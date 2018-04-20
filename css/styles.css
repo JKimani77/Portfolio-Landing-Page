@@ -1,0 +1,9 @@
+body{
+    background: url("../images/background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sidebar {
+  width: 30%;
+  float: center;
+}
