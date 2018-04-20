@@ -6,14 +6,17 @@ body{
     background-size: center;
 }
 .sidebar {
-  width: 30%;
-  float: center;
+  width: 70%;
+  float: left;
   color: white;
 }
+
 .jk{
   color: white
 }
+
 .sidebar img {
   float: left;
-  width: 60px
-}
+  width: 60px;
+;
+. column-gap: auto;
