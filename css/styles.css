@@ -2,12 +2,13 @@ body{
     background: url("../images/background2.jpg");
     padding-top: 50px;
     padding-left: 500px;
+    padding-bottom: 5000px;
     background-repeat: repeat;
     background-size: center;
 }
 .sidebar {
   width: 70%;
-  float: left;
+  float: center;
   color: white;
 }
 
@@ -17,6 +18,24 @@ body{
 
 .sidebar img {
   float: left;
-  width: 60px;
-;
-. column-gap: auto;
+  width: 50px;
+}
+
+p1{
+  font-size: 40px;
+  line-height: 30px;
+  float: right;
+}
+
+h2{
+  font-size: 40px;
+}
+
+h3{
+  font-size: 40px;
+  font-style: italic;
+}
+
+.text{
+  color: white;
+}
