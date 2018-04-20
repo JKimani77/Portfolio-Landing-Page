@@ -45,7 +45,7 @@ h3{
   float: left;
 }
 h1{
-  font-size: 50px;
+  font-size: 40px;
 font-weight: bolder;
 }
 .lolo{
@@ -57,14 +57,16 @@ font-weight: bolder;
   color:white;
   font-size: 20px;
 }
-h4{text-emphasis-position: below;
+h4{font-size: 40px;
 }
 
-.lolo{
+.lolo3{
   color: white;
   font-size: 20px;
 }
-
+h5{
+  font-size: 40px;
+}
 
 
 j
