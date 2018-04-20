@@ -1,13 +1,10 @@
 body{
     background: url("../images/background2.jpg");
-    padding-top: 50px;
-    padding-left: 500px;
-    padding-bottom: 5000px;
     background-repeat: repeat;
     background-size: center;
 }
 .sidebar {
-  width: 70%;
+  width: 60%;
   float: center;
   color: white;
 }
@@ -70,6 +67,9 @@ h5{
   font-size: 20px;
 }
 
-h{
-  text-decoration: underline;
+.lolo5{
+  text-align: right;
+}
+}
+h6{font-size: 40px;
 }
