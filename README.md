@@ -4,18 +4,16 @@
 ## About
 It is a document containing my details and portfolio of of my work experience. it also contains details about me, including my biography,work experience, education and several other details that link to my well-being.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* No installation required
+* Open Tour Browser
+* Search for this link-https://jkimani77.github.io/Portfolio-Landing-Page/
+{It is a webpage, so you do not need a server or anything else,you also don't need to run it.}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{There are no bugs.}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{My portfolio landing page was created using html. I also used css to add styles to the webpage as well as edit certain aspects of my page.One cool thing that I have is an icon that I added to the name of the webpage,on the tab.I added a background image that is repeated to my page along with my profile photo that i imported from instagram.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{If at any given point you come across any issues, you can send me an email; jkkimani77@gmail.com}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
